@@ -10,5 +10,5 @@ To run this:
 1) clone the repository 
 2) Install rust from the rust website: https://www.rust-lang.org
 3) create a txt file (and place in the source directory or use relative paths to navigate to it).
-4) compile and run:
-    i) `cargo run -- pattern ../file.txt`
+4) compile and run:  
+    1) `cargo run -- pattern ../file.txt`
